@@ -1,0 +1,16 @@
+{
+  "posts": [
+    {
+      "title": "tes",
+      "content": "teste",
+      "author": "teste",
+      "id": 1
+    },
+    {
+      "title": "tes2",
+      "content": "teste",
+      "author": "teste",
+      "id": 2
+    }
+  ]
+}
